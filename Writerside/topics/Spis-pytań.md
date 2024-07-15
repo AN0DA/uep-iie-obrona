@@ -1,6 +1,10 @@
-# Spis pytań
+# Pytania na obronę - UEP - Informatyka i Ekonometria - 2024
 
-## Pytania ogólnoekonomiczne
+Strona zawiera spis pytań na obronę pracy licencjackiej na kierunku Informatyka i Ekonometria na Uniwersytecie Ekonomicznym w Poznaniu.
+
+## Spis pytań
+
+### Pytania ogólnoekonomiczne
 
 1. Sprawozdanie finansowe przedsiębiorstwa – jego charakterystyka, części składowe, użytkownicy
 2. Bilans jako źródło informacji o sytuacji majątkowej i finansowej przedsiębiorstwa
@@ -29,7 +33,7 @@
 25. Polityka fiskalna i pieniężna w gospodarce otwartej w systemie płynnego i stałego kursu walutowego
 
 
-## Pytania kierunkowe
+### Pytania kierunkowe
 
 1. Zmienne losowe o rozkładzie normalnym. Własności i znaczenie
 2. Prawa wielkich liczb i centralne twierdzenia graniczne

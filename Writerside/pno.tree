@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="pno"
+                 name="Pytania na obronę"
+                 start-page="Spis-pytań.md">
+
+    <toc-element topic="Spis-pytań.md"/>
+    <toc-element topic="Pytania-ogólnoekonomiczne.md">
+        <toc-element topic="Sprawozdanie-finansowe-przedsiębiorstwa.md"/>
+    </toc-element>
+    <toc-element topic="Pytania-kierunkowe.md"/>
+    <toc-element topic="starter.md"/>
+</instance-profile>
