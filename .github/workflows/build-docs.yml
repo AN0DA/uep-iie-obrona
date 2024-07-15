@@ -5,6 +5,9 @@ on:
     branches: ["main"]
   workflow_dispatch:
 
+permissions:
+  id-token: write
+
 env:
   INSTANCE: 'Writerside/pno'
   ARTIFACT: 'webHelpPNO2-all.zip'
