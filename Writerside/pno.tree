@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="pno"
-                 name="Pytania na obronę"
+                 name="Pytania na obronę - UEP - Informatyka i Ekonometria - 2024"
                  start-page="Spis-pytań.md">
 
     <toc-element topic="Spis-pytań.md"/>
