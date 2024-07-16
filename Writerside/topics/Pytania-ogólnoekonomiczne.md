@@ -26,15 +26,39 @@
 
 ## Źródła finansowania działalności przedsiębiorstwa
 
+<note>
+    <a href="Źródła-finansowania-działalności-przedsiębiorstwa.md"/>
+</note>
+
 ## Pojęcia kosztu i wydatku przedsiębiorstwa. Rodzaje kosztów i ich walory poznawcze. Rola kosztów w procesie zarządzania
+
+<note>
+    <a href="Pojęcia-kosztu-i-wydatku-przedsiębiorstwa.md"/>
+</note>
 
 ## Systemy rachunku kosztów w przedsiębiorstwie oraz metody kalkulacji kosztów
 
+<note>
+    <a href="Systemy-rachunku-kosztów.md"/>
+</note>
+
 ## Rentowność przedsiębiorstwa – pojęcie, obszary analityczne, próg rentowności
+
+<note>
+    <a href="Rentowność-przedsiębiorstwa.md"/>
+</note>
 
 ## System finansowy gospodarki – pojęcie, funkcje i charakterystyka jego poszczególnych segmentów
 
+<note>
+    <a href="System-finansowy-gospodarki.md"/>
+</note>
+
 ## Instrumenty finansowe – pojęcie, klasyfikacje i funkcje
+
+<note>
+    <a href="Instrumenty-finansowe.md"/>
+</note>
 
 ## Podatki – pojęcie, klasyfikacje i funkcje
 
