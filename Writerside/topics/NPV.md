@@ -24,11 +24,11 @@ Aby obliczyć NPV, należy:
 
 gdzie:
 
-- `CF_t` - przepływy pieniężne w okresie  `t`
-- `r` - stopa dyskontowa
-- `t` - numer okresu
-- `n` - łączna liczba okresów
-- `I_0` - początkowy koszt inwestycji
+- $CF_t$ - przepływy pieniężne w okresie  $t$
+- $r$ - stopa dyskontowa
+- $t$ - numer okresu
+- $n$ - łączna liczba okresów
+- $I_0$ - początkowy koszt inwestycji
 
 ## Interpretacja NPV
 
