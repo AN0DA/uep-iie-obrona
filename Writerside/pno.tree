@@ -8,10 +8,16 @@
 
     <toc-element topic="Spis-pytań.md"/>
     <toc-element topic="Pytania-ogólnoekonomiczne.md">
-        <toc-element topic="Wynik-finansowy-przedsiębiorstwa.md"/>
         <toc-element topic="Sprawozdanie-finansowe-przedsiębiorstwa.md"/>
         <toc-element topic="Bilans.md"/>
         <toc-element topic="Metody-wyceny-w-rachunkowości.md"/>
+        <toc-element topic="Wynik-finansowy-przedsiębiorstwa.md"/>
+        <toc-element topic="Źródła-finansowania-działalności-przedsiębiorstwa.md"/>
+        <toc-element topic="Pojęcia-kosztu-i-wydatku-przedsiębiorstwa.md"/>
+        <toc-element topic="Systemy-rachunku-kosztów.md"/>
+        <toc-element topic="Rentowność-przedsiębiorstwa.md"/>
+        <toc-element topic="System-finansowy-gospodarki.md"/>
+        <toc-element topic="Instrumenty-finansowe.md"/>
     </toc-element>
     <toc-element topic="Pytania-kierunkowe.md"/>
     <toc-element topic="Dodatek.md">
