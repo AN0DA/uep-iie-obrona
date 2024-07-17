@@ -2,73 +2,255 @@
 
 ## Sprawozdanie finansowe przedsiębiorstwa – jego charakterystyka, części składowe, użytkownicy
 
-<note>
+<tldr>
     <a href="Sprawozdanie-finansowe-przedsiębiorstwa.md"/>
-</note>
+</tldr>
+
+> Sprawozdanie finansowe przedsiębiorstwa jest zestawieniem informacji o zasobach, źródłach finansowania oraz wynikach
+> działalności za dany rok obrotowy.
+>
+>Jego celem jest rzetelna i jasna prezentacja sytuacji majątkowej i finansowej oraz wyniku finansowego jednostki,
+> zgodnie z ustawą o rachunkowości. Składa się z bilansu, rachunku zysków i strat, informacji dodatkowej oraz
+> sprawozdania
+> z działalności.
+>
+>Użytkownikami sprawozdania są zarówno wewnętrzni interesariusze, jak zarząd i pracownicy, jak i zewnętrzni, np. organy
+> nadzoru, inwestorzy, kredytodawcy, pożyczkodawcy, dostawcy, klienci, konkurencja i społeczeństwo
 
 ## Bilans jako źródło informacji o sytuacji majątkowej i finansowej przedsiębiorstwa
 
-<note>
+<tldr>
     <a href="Bilans.md"/>
-</note>
+</tldr>
+
+> Bilans to zestawienie aktywów, pasywów i kapitałów własnych przedsiębiorstwa w określonym momencie, które przedstawia
+> równowagę bilansową - suma aktywów równa jest sumie pasywów i kapitałów własnych.
+>
+>Kluczowe elementy bilansu to kapitał własny oraz zobowiązania, które reprezentują wewnętrzne i zewnętrzne źródła
+> finansowania.
+>
+> Bilans prezentuje wartości księgowe, a nie rynkowe, co może wpływać na różnice w wycenie aktywów i zobowiązań.
+> Ponadto, nie uwzględnia on wartości niematerialnych i prawnych, które mogą znacząco wpływać na wartość
+> przedsiębiorstwa.
 
 ## Metody wyceny w rachunkowości
 
-<note>
+<tldr>
     <a href="Metody-wyceny-w-rachunkowości.md"/>
-</note>
+</tldr>
+
+> Metody wyceny w rachunkowości obejmują zasady i procedury służące do określania wartości aktywów, pasywów oraz wyników
+> finansowych przedsiębiorstwa, które są kluczowe do sporządzania sprawozdań finansowych i podejmowania decyzji
+> zarządczych.
+>
+> Wycena musi być przeprowadzana zgodnie z zasadami rzetelności (realne wartości zgodne ze stanem rzeczywistym) oraz
+> ostrożności (niezawyżanie wartości aktywów i niezaniżanie wartości pasywów).
+>
+>Wyróżnia się cztery główne metody wyceny aktywów: koszt historyczny (wartość nabycia lub wytworzenia), koszt bieżący (
+> wartość rynkowa), wartość realizacji (cena sprzedaży) oraz wartość bieżąca (zdyskontowane przepływy pieniężne).
 
 ## Wynik finansowy przedsiębiorstwa – istota, rodzaje i metody ustalania
 
-<note>
+<tldr>
     <a href="Wynik-finansowy-przedsiębiorstwa.md"/>
-</note>
+</tldr>
+
+> Wynik finansowy przedsiębiorstwa to różnica między przychodami a kosztami. Może być dodatni (zysk) lub ujemny (
+> strata).
+>
+> Wynik ze sprzedaży to różnica między przychodami ze sprzedaży a kosztami ich uzyskania.
+>
+> Wynik operacyjny obejmuje przychody operacyjne minus koszty operacyjne.
+>
+> Wynik brutto to różnica między przychodami ze sprzedaży a kosztami produkcji i sprzedaży, a wynik netto to wynik
+> brutto pomniejszony o podatek dochodowy.
+>
+>Wynik finansowy można ustalać metodą kalkulacyjną, grupującą koszty według rodzaju działalności, lub metodą
+> porównawczą, klasyfikującą koszty według ich rodzaju.
 
 ## Źródła finansowania działalności przedsiębiorstwa
 
-<note>
+<tldr>
     <a href="Źródła-finansowania-działalności-przedsiębiorstwa.md"/>
-</note>
+</tldr>
+
+> Przedsiębiorstwo potrzebuje odpowiednich źródeł finansowania, które można podzielić według kilku kryteriów.
+>
+> Według źródła pochodzenia, kapitał może być własny (wniesiony przez udziałowców lub wypracowany) lub obcy (
+> zobowiązania i rezerwy).
+>
+> Według dostępu kapitału, źródła mogą być wewnętrzne (wkład własny, zatrzymany zysk, amortyzacja) lub zewnętrzne (
+> emisja akcji, nowy udziałowiec).
+>
+>Według okresu wykorzystania, kapitał może być długoterminowy (leasing, emisja obligacji, dotacje) lub krótkoterminowy (
+> kredyt handlowy).
 
 ## Pojęcia kosztu i wydatku przedsiębiorstwa. Rodzaje kosztów i ich walory poznawcze. Rola kosztów w procesie zarządzania
 
-<note>
+<tldr>
     <a href="Pojęcia-kosztu-i-wydatku-przedsiębiorstwa.md"/>
-</note>
+</tldr>
+
+> Koszt to wyrażone w jednostkach pieniężnych zużycie zasobów przedsiębiorstwa, natomiast wydatek oznacza zmniejszenie
+> stanu środków pieniężnych, niezależnie od celu. Rachunek kosztów jest kluczowym elementem rachunkowości.
+>
+> Koszty dzielą się na bezpośrednie, związane z konkretnymi obiektami produkcji, oraz pośrednie, dotyczące ogólnych
+> kosztów
+> zarządzania.
+>
+> Istnieją także koszty stałe, niezależne od wielkości produkcji, i zmienne, które zmieniają się wraz z produkcją.
+>
+> Koszty odgrywają kluczową rolę w zarządzaniu, umożliwiając planowanie i kontrolę, wspierając podejmowanie decyzji,
+> optymalizację oraz ocenę rentowności przedsiębiorstwa.
 
 ## Systemy rachunku kosztów w przedsiębiorstwie oraz metody kalkulacji kosztów
 
-<note>
+<tldr>
     <a href="Systemy-rachunku-kosztów.md"/>
-</note>
+</tldr>
+
+> System rachunku kosztów w przedsiębiorstwie dzieli się na rachunek kosztów pełnych i rachunek kosztów zmiennych.
+>
+>Rachunek kosztów pełnych obejmuje wszystkie koszty produkcji (bezpośrednie i pośrednie) oraz koszty nieprodukcyjne,
+> takie jak zarządzanie i sprzedaż.
+>
+> Rachunek kosztów zmiennych, tworzony na potrzeby wewnętrzne, bazuje na podziale kosztów na zmienne i stałe, wspierając
+> krótkoterminowe decyzje cenowe, ale jest mniej użyteczny w długim okresie i nie nadaje się do rachunkowości
+> finansowej.
+> Kalkulacja kosztów polega na obliczaniu sumy kosztów przypadających na przedmiot kalkulacji oraz ustalaniu kosztu
+> jednostkowego.
+>
+>Wyróżnia się kalkulację podziałową, która równomiernie rozdziela koszty na jednostki produktu w produkcji masowej, oraz
+> kalkulację doliczeniową, która dodaje narzuty do bezpośrednich kosztów jednostkowych w produkcji zróżnicowanej.
 
 ## Rentowność przedsiębiorstwa – pojęcie, obszary analityczne, próg rentowności
 
-<note>
+<tldr>
     <a href="Rentowność-przedsiębiorstwa.md"/>
-</note>
+</tldr>
+
+> Rentowność przedsiębiorstwa mierzy jego zdolność do generowania zysku z zainwestowanych środków. Wskaźniki rentowności
+> określają zysk uzyskiwany z każdej jednostki przychodu w różnych obszarach działalności.
+>
+>Rentowność handlowa ocenia zysk ze sprzedaży jako procent przychodów ze sprzedaży.
+>
+> Rentowność ekonomiczna mierzy zysk netto w stosunku do aktywów, pokazując efektywność zarządzania zasobami.
+>
+> Rentowność finansowa porównuje zysk netto z kapitałem własnym, oceniając efektywność wykorzystania kapitału własnego.
+>
+>Próg rentowności to poziom przychodów, przy którym przedsiębiorstwo osiąga równowagę między kosztami a przychodami,
+> wskazując punkt, od którego zaczyna generować zyski.
 
 ## System finansowy gospodarki – pojęcie, funkcje i charakterystyka jego poszczególnych segmentów
 
-<note>
+<tldr>
     <a href="System-finansowy-gospodarki.md"/>
-</note>
+</tldr>
+
+> System finansowy gospodarki to mechanizmy, instytucje i regulacje umożliwiające przepływ środków finansowych.
+>
+> Jego funkcje to obieg pieniądza, transfer kapitału oraz nadzór nad przepływami finansowymi. Składa się z dwóch
+> segmentów:
+> rynkowego, obejmującego instrumenty finansowe, rynki i instytucje, oraz publicznego, zarządzającego finansami
+> publicznymi i polityką fiskalną. Segment rynkowy zawiera akcje, obligacje i banki, a segment publiczny obejmuje
+> instytucje budżetowe, podatki i obligacje skarbowe.
 
 ## Instrumenty finansowe – pojęcie, klasyfikacje i funkcje
 
-<note>
+<tldr>
     <a href="Instrumenty-finansowe.md"/>
-</note>
+</tldr>
+
+> Instrument finansowy to kontrakt pomiędzy stronami, który powoduje powstanie aktywów finansowych u jednej strony i
+> zobowiązań finansowych u drugiej.
+>
+> Klasyfikuje się je na pierwotne (np. akcje, obligacje), pochodne (np. opcje, kontrakty terminowe) i hybrydowe (np.
+> obligacje z opcją zamiany na akcje).
+>
+> Funkcje instrumentów finansowych obejmują: obiegową (przenoszenie praw), płatniczą (forma zapłaty), legitymacyjną (
+> identyfikacja uprawnionego), pożyczkową (uzyskanie pożyczki), gwarancyjną (zabezpieczenie roszczeń) oraz
+> spekulacyjną (
+> możliwość dochodu z ryzykiem).
 
 ## Podatki – pojęcie, klasyfikacje i funkcje
 
+<tldr>
+    <a href="Podatki.md"/>
+</tldr>
+
+> Podatek to obowiązkowem bezzwrotne, nieodpłatne, generalne i ustalane jednostronnie świadczenie pieniężne na rzecz
+> państwa lub samorządu.
+>
+> Klasyfikacje podatków obejmują podmiotowość (kto płaci), przedmiotowość (czego dotyczy), stawki, sposobów naliczania i
+> poboru oraz podziału wpływów (centralny, lokalny).
+>
+> Funkcje podatków to fiskalna (finansowanie wydatków publicznych), redystrybucyjna (zmniejszanie nierówności),
+> stymulacyjna (wpływ na zachowania gospodarcze) oraz informacyjna (dostarczanie informacji o sytuacji gospodarczej).
+
 ## Ryzyko w działalności przedsiębiorstwa. Metody zarządzania ryzykiem
+
+<tldr>
+    <a href="Ryzyko-w-działalności.md"/>
+</tldr>
+
+> Ryzyko to nieodłączny element działalności przedsiębiorstwa, oznaczający możliwość poniesienia strat w wyniku
+> podjętych decyzji. Zarządzanie ryzykiem, proces ciągły i wymagający doskonalenia, pozwala minimalizować jego wpływ.
+>
+> Ryzyko dzieli się na stałe (związane z systemem gospodarczym, np. inflacja) i zmienne (związane z działalnością firmy,
+> np. zmiany cen surowców). Czynniki ryzyka mogą być zewnętrzne (ekonomiczne, polityczne), finansowe (płynność,
+> kredytowe) i wewnętrzne (operacyjne).
+>
+> Rodzaje ryzyka obejmują ryzyko rynkowe, kredytowe, operacyjne, biznesowe i prawne.
+>
+>Metody zarządzania ryzykiem to akceptacja (przyjęcie ryzyka), łagodzenie (zmniejszenie jego skutków), unikanie (
+> rezygnacja z ryzykownych działań) i przeniesienie (np. ubezpieczenia).
 
 ## Pojęcie własności intelektualnej i jej prawna ochrona- przykłady dozwolonego korzystania prywatnego i publicznego z chronionych utworów
 
+<tldr>
+    <a href="Pojęcie-własności-intelektualnej.md"/>
+</tldr>
+
+> Własność intelektualna obejmuje twory powstałe w wyniku procesów intelektualnych, które zostały materialnie ujęte.
+>
+> Do rodzajów własności intelektualnej zalicza się prawa autorskie, własność przemysłową (patenty, znaki towarowe, wzory
+> użytkowe, wzory przemysłowe) oraz know-how (tajemnice przedsiębiorstwa, technologie).
+>
+> Prawa autorskie dzielą się na niezbywalne (osobiste prawa autora) i zbywalne (majątkowe prawa autora).
+>
+> Korzystanie z utworów może być prywatne (np. pożyczenie książki) lub publiczne (np. prawo cytatu).
+>
+> Przykłady ochrony prawnej obejmują patenty na wynalazki, znaki towarowe dla identyfikacji produktów lub usług, wzory
+> przemysłowe chroniące wygląd produktów oraz prawo autorskie chroniące utwory literackie, muzyczne i inne dzieła.
+
 ## Funkcja produkcji. Podstawowe charakterystyki funkcji produkcji. Stałe, malejące i rosnące korzyści skali produkcji
 
+<tldr>
+    <a href="Funkcja-produkcji.md"/>
+</tldr>
+
+> Funkcja produkcji pokazuje zależność między wielkością produkcji a nakładami zasobów.
+>
+> Charakterystyki funkcji produkcji obejmują: zerowe nakłady (produkcja wynosi 0), rosnące nakłady (produkcja rośnie z
+> nakładami do punktu nasycenia), ciągłość i różniczkowalność (małe zmiany nakładów powodują małe zmiany produkcji) oraz
+> wklęsłość (malejąca krańcowa produktywność).
+>
+>Dodatnia jednorodność oznacza, że proporcjonalny wzrost nakładów powoduje proporcjonalny wzrost produkcji.
+>
+>Korzyści skali dzielą się na: stałe (koszty maleją wolniej niż produkcja), malejące (koszty maleją szybciej niż
+> produkcja) i rosnące (koszty jednostkowe rosną).
+
 ## Substytucyjność i komplementarność czynników produkcji. Przykłady komplementarnych i substytucyjnych funkcji produkcji
+
+<tldr>
+    <a href="Substytucyjność-i-komplementarność.md"/>
+</tldr>
+
+> Substytucyjność to zdolność czynników produkcji do zastępowania się nawzajem, np. wzrost ilości pracy może zastąpić
+> kapitał. Przykładem jest funkcja Cobba-Douglasa.
+>
+> Komplementarność to zdolność czynników produkcji do wzajemnego uzupełniania się, np. maszyna wymaga prądu do
+> działania. Przykładem jest funkcja Koopmansa-Leontiefa.
 
 ## Charakterystyka podstawowych struktur rynkowych – konkurencja doskonała, oligopol, duopol i monopol
 
