@@ -372,6 +372,62 @@
 
 ## Bezrobocie – jego przyczyny, rodzaje i sposoby ograniczania. Wzrost gospodarczy a redukcja bezrobocia – prawo Okuna
 
+<tldr>
+    <a href="Bezrobocie.md"/>
+</tldr>
+
+> Rodzaje bezrobocia obejmują frykcyjne (krótkotrwałe, związane z poszukiwaniem pracy lub zmianą miejsca zamieszkania) i
+> strukturalne (długotrwałe, wynikające z niedopasowania podaży pracy do zapotrzebowania). Przyczynami bezrobocia są
+> globalizacja, migracje, koniunktura gospodarcza, postęp technologiczny, polityka społeczna (zasiłki), wysokie składki
+> na
+> ubezpieczenia społeczne, wysokie płace minimalne oraz dynamika cen i płac.
+>
+>Sposoby ograniczania bezrobocia obejmują zwiększanie inwestycji w kraju (infrastruktura i inne projekty), tworzenie
+> nowych miejsc pracy poprzez wspieranie przedsiębiorczości i nowych firm oraz zmniejszanie kosztów pracy przez
+> obniżanie
+> składek na ubezpieczenia społeczne i innych kosztów zatrudnienia.
+>
+>Prawo Okuna wskazuje na empiryczną zależność między wzrostem gospodarczym a bezrobociem, sugerując, że wzrost PKB o 3%
+> prowadzi do spadku bezrobocia o 1%, i odwrotnie.
+
 ## Model wzrostu gospodarczego Solowa – wyjściowe założenia, dynamika kapitału na jednego zatrudnionego, stany stacjonarne
 
+<tldr>
+    <a href="Model-wzrostu-gospodarczego-Solowa.md"/>
+</tldr>
+
+> Model Solowa opisuje związki między oszczędnościami, akumulacją kapitału i produkcją, wskazując, że przyrost kapitału
+> na pracownika wynika z różnicy między inwestycjami a deprecjacją kapitału.
+>
+>Założenia modelu obejmują funkcję produkcji spełniającą założenia o stałych korzyściach skali oraz równowagę na rynku
+> produktu.
+>
+>Stan stacjonarny, w którym kapitał i produkcja na pracownika nie zmieniają się w czasie, jest osiągany, gdy przyrost
+> kapitału na pracownika równy jest jego deprecjacji.
+>
+>Kluczowe wnioski z modelu Solowa wskazują, że długoterminowy wzrost gospodarczy zależy głównie od postępu technicznego,
+> wzrost kapitału na jednego pracownika prowadzi do malejących przyrostów produkcji, a osiągnięcie stanu stacjonarnego
+> oznacza, że gospodarka potrzebuje innowacji technologicznych, aby dalej rosnąć.
+
 ## Polityka fiskalna i pieniężna w gospodarce otwartej w systemie płynnego i stałego kursu walutowego
+
+<tldr>
+    <a href="Polityka-fiskalna-i-pieniężna.md"/>
+</tldr>
+
+> W gospodarce otwartej model IS-LM opisuje relacje między produkcją, stopą procentową i kursem walutowym. W systemie
+> płynnego kursu walutowego ekspansywna polityka fiskalna zwiększa wydatki rządowe lub obniża podatki, co prowadzi do
+> wzrostu produkcji i stóp procentowych, przyciągając kapitał zagraniczny i powodując aprecjację waluty. Ekspansywna
+> polityka pieniężna zwiększa podaż pieniądza, obniża stopy procentowe, stymuluje inwestycje i konsumpcję oraz
+> deprecjonuje walutę, zwiększając konkurencyjność eksportu.
+>
+>W systemie stałego kursu walutowego ekspansywna polityka fiskalna prowadzi do wzrostu produkcji i deficytu handlowego,
+> wymagając interwencji walutowych, podczas gdy ekspansywna polityka pieniężna prowadzi do deprecjacji waluty, również
+> wymagając interwencji. Restrykcyjna polityka fiskalna zmniejsza produkcję i deficyt handlowy, a restrykcyjna polityka
+> pieniężna prowadzi do aprecjacji waluty, wymagając zakupu waluty krajowej przez bank centralny.
+>
+>W systemie płynnego kursu walutowego polityka pieniężna jest bardziej elastyczna, ale polityka fiskalna może powodować
+> znaczne zmiany kursu walutowego. W systemie stałego kursu walutowego polityka fiskalna jest bardziej efektywna w
+> stabilizacji gospodarki, ale polityka pieniężna jest ograniczona przez konieczność utrzymania stałego kursu walutowego.
+> Koordynacja polityk fiskalnej i pieniężnej jest kluczowa dla osiągnięcia pożądanych celów gospodarczych i stabilności
+> makroekonomicznej.
