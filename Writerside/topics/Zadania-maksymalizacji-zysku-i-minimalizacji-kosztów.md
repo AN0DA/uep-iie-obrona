@@ -2,7 +2,7 @@
 
 ## Maksymalizacja zysku
 
-### Konkurencja doskonała
+### Konkurencja doskonała {id="max-doskonala"}
 
 W warunkach konkurencji doskonałej przedsiębiorstwa maksymalizują zysk poprzez produkcję takiej ilości dóbr, przy której
 cena rynkowa (P) jest równa krańcowemu kosztowi (MC) produkcji. Ponieważ firmy są cenobiorcami, nie mogą wpływać na cenę
@@ -18,7 +18,7 @@ P = MC
 
 Przy tej ilości produkcji różnica między całkowitymi przychodami (TR) a całkowitymi kosztami (TC) jest największa.
 
-### Monopol
+### Monopol {id="max-monopol"}
 
 W warunkach monopolu przedsiębiorstwo maksymalizuje zysk, wybierając poziom produkcji, przy którym jego krańcowy
 przychód (MR) jest równy krańcowemu kosztowi (MC). Monopolista ma możliwość wpływania na cenę rynkową poprzez zmianę
@@ -36,7 +36,7 @@ Monopolista określa cenę na podstawie funkcji popytu, wykorzystując fakt, że
 
 ## Minimalizacja kosztów
 
-### Konkurencja doskonała
+### Konkurencja doskonała {id="min-doskonala"}
 
 W warunkach konkurencji doskonałej przedsiębiorstwa minimalizują koszty poprzez wybór optymalnej kombinacji nakładów
 produkcji (praca, kapitał) tak, aby uzyskać daną wielkość produkcji przy najniższych możliwych kosztach. Koszty
@@ -57,7 +57,7 @@ gdzie:
 - $\text{w}$ – płaca
 - $\text{r}$ – koszt kapitału
 
-### Monopol
+### Monopol {id="min-monopol"}
 
 Monopolista również dąży do minimalizacji kosztów, wybierając optymalną kombinację nakładów produkcji. Proces ten jest
 podobny do tego w konkurencji doskonałej, ale monopolista może także wykorzystać swoją pozycję na rynku, aby uzyskać

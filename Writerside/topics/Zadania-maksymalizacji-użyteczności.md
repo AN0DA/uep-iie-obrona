@@ -33,7 +33,7 @@ przy danym poziomie użyteczności.
 
 ## Własności funkcji popytu
 
-### Funkcja popytu Marshalla
+### Funkcja popytu Marshalla {id="wlasnosci-marshall"}
 
 - **Zależność od dochodu i cen** – Funkcja popytu Marshalla pokazuje ilość towaru, jaką konsument będzie kupował przy
   różnych poziomach dochodu i cen.
@@ -42,7 +42,7 @@ przy danym poziomie użyteczności.
 - **Substytucyjność i komplementarność** – Towary mogą być substytutami lub komplementami, co wpływa na kształt funkcji
   popytu.
 
-### Funkcja popytu Hicksa
+### Funkcja popytu Hicksa {id="wlasnosci-hicks"}
 
 - **Minimalizacja wydatków** – Funkcja popytu Hicksa wskazuje koszyk towarów, który minimalizuje wydatki przy danym
   poziomie użyteczności.

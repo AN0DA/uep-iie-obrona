@@ -5,7 +5,7 @@ równowagi.
 
 ## System płynnego kursu walutowego
 
-### Polityka fiskalna
+### Polityka fiskalna {id="plynny-fiskalna"}
 
 W systemie płynnego kursu walutowego polityka fiskalna polega na zmianie wydatków rządowych i/lub podatków w celu
 wpływania na popyt finalny, produkt równowagi i zatrudnienie.
@@ -20,7 +20,7 @@ wpływania na popyt finalny, produkt równowagi i zatrudnienie.
     - Może prowadzić do spadku stóp procentowych, co zniechęca kapitał zagraniczny i powoduje deprecjację waluty
       krajowej.
 
-### Polityka pieniężna
+### Polityka pieniężna {id="plynny-pieniezna"}
 
 Polityka pieniężna w systemie płynnego kursu walutowego polega na regulowaniu podaży pieniądza i poziomu stóp
 procentowych przez bank centralny.
@@ -35,7 +35,7 @@ procentowych przez bank centralny.
 
 ## System stałego kursu walutowego
 
-### Polityka fiskalna
+### Polityka fiskalna {id="staly-fiskalna"}
 
 W systemie stałego kursu walutowego polityka fiskalna ma większą swobodę, ponieważ kurs walutowy jest ustalany przez
 rząd lub bank centralny i nie reaguje bezpośrednio na zmiany w polityce fiskalnej.
@@ -45,7 +45,7 @@ rząd lub bank centralny i nie reaguje bezpośrednio na zmiany w polityce fiskal
 - **Restrykcyjna polityka fiskalna**: Może prowadzić do spadku produkcji krajowej i zmniejszenia deficytu handlowego, co
   może wymagać mniej interwencji walutowych.
 
-### Polityka pieniężna
+### Polityka pieniężna {id="staly-pieniezna"}
 
 Polityka pieniężna w systemie stałego kursu walutowego jest ograniczona przez konieczność utrzymania stałego kursu
 walutowego.
