@@ -254,17 +254,121 @@
 
 ## Charakterystyka podstawowych struktur rynkowych – konkurencja doskonała, oligopol, duopol i monopol
 
+<tldr>
+    <a href="Charakterystyka-podstawowych-struktur-rynkowych.md"/>
+</tldr>
+
+> Konkurencja doskonała - przedsiębiorstwa nie mają wpływu na ceny, produkty są jednorodne, konsumenci mają pełną
+> informację, a ceny kształtują się według podaży i popytu przy nieograniczonej liczbie konkurentów i łatwym wejściu na
+> rynek.
+>
+>Oligopol - od dwóch do kilkunastu producentów dominuje rynek, mając wpływ na ceny, ich działania są wzajemnie
+> uzależnione, a współpraca w celu ustalania cen lub produkcji jest możliwa.
+>
+>Duopol - działa tylko dwóch producentów, każdy wpływa na ceny i produkcję, uważnie obserwując konkurenta, co prowadzi
+> do silnej wzajemnej zależności i potencjalnej intensywnej rywalizacji.
+>
+>Monopol - jedno przedsiębiorstwo kontroluje rynek, ustala ceny i produkcję, działa w interesie konsumentów lub własnym,
+> przy dużych barierach wejścia, co prowadzi do potencjalnych nadmiernych zysków.
+
 ## Zadania maksymalizacji zysku i minimalizacji kosztów przedsiębiorstwa w warunkach konkurencji doskonałej i monopolu
+
+<tldr>
+    <a href="Zadania-maksymalizacji-zysku-i-minimalizacji-kosztów.md"/>
+</tldr>
+
+> W warunkach konkurencji doskonałej przedsiębiorstwa maksymalizują zysk, produkując ilość dóbr, przy której cena
+> rynkowa równa jest krańcowemu kosztowi produkcji.
+> Monopol natomiast maksymalizuje zysk, ustalając produkcję na poziomie, gdzie krańcowy przychód równy jest krańcowemu
+> kosztowi.
+>
+> W obu strukturach rynkowych przedsiębiorstwa minimalizują koszty przez optymalny wybór nakładów produkcji, jednak
+> monopolista może dodatkowo wykorzystać swoją pozycję na rynku do uzyskania lepszych warunków zakupowych.
 
 ## Zadania maksymalizacji użyteczności i minimalizacji wydatków konsumenta oraz własności związanych z nimi funkcji popytu Marshalla i Hicksa
 
+<tldr>
+    <a href="Zadania-maksymalizacji-użyteczności.md"/>
+</tldr>
+
+> Maksymalizacja użyteczności konsumpcji polega na znalezieniu takiego koszyka towarów, który zapewni konsumentowi
+> maksymalną użyteczność przy danym dochodzie. Funkcja popytu Marshalla opisuje zależność między ceną towaru a ilością
+> tego towaru, jaką konsument jest gotów kupić. Towary mogą być normalne, Giffena, substytucyjne, komplementarne,
+> wyższego
+> lub niższego rzędu, co wpływa na ich popyt w zależności od cen i dochodu.
+>
+> Minimalizacja wydatków polega na wyborze koszyka towarów o najniższym koszcie przy tej samej użyteczności. Funkcja
+> popytu Hicksa przyporządkowuje koszyk towarów, który minimalizuje wydatki przy danym poziomie użyteczności, zależnie
+> od
+> poziomu cen.
+>
+> Funkcja popytu Marshalla pokazuje ilość towaru, jaką konsument będzie kupował przy różnych poziomach dochodu i cen,
+> uwzględniając zasady malejącej użyteczności krańcowej oraz substytucyjność i komplementarność towarów. Funkcja popytu
+> Hicksa wskazuje koszyk towarów minimalizujący wydatki przy danym poziomie użyteczności i cen, optymalizując wybór
+> konsumenta.
+
 ## Produkt krajowy brutto – trzy sposoby definiowania. PKB p.c. a jakość życia
+
+<tldr>
+    <a href="PKB.md"/>
+</tldr>
+
+> Produkt Krajowy Brutto (PKB) można zdefiniować jako wartość wszystkich dóbr i usług finalnych wytworzonych w
+> określonym okresie, sumę wartości dodanej oraz VAT, lub sumę dochodów z pracy i kapitału uzyskanych w gospodarce w
+> określonym okresie.
+>
+> PKB per capita; ma swoje ograniczenia, ponieważ nie uwzględnia wielu czynników wpływających na jakość życia.
 
 ## Funkcje banku centralnego i banków komercyjnych. Proces mnożnikowej kreacji pieniądza
 
+<tldr>
+    <a href="Funkcje-banku.md"/>
+</tldr>
+
+> Bank centralny ma wyłączne prawo do emisji pieniądza i prowadzi politykę pieniężną poprzez operacje otwartego rynku,
+> ustalanie stóp procentowych oraz rezerw obowiązkowych. Banki komercyjne zajmują się pośrednictwem finansowym, kreacją
+> pieniądza bezgotówkowego oraz regulowaniem płatności w imieniu klientów.
+>
+>Mnożnikowa kreacja pieniądza zaczyna się, gdy bank centralny udziela kredytu bankowi komercyjnemu, który następnie
+> udziela pożyczki innemu podmiotowi. Podmiot ten deponuje pieniądze w innym banku komercyjnym, który udziela kolejnej
+> pożyczki. Proces ten powtarza się, tworząc wielokrotne przyrosty pieniądza pierwotnie udzielonego przez bank
+> centralny,
+> przy czym część depozytów trafia do banku centralnego jako rezerwy obowiązkowe.
+
 ## Mechanizmy transmisji polityki fiskalnej i pieniężnej w modelu IS-LM
 
+<tldr>
+    <a href="IS-LM.md"/>
+</tldr>
+
+> Polityka fiskalna, zmieniając podatki i wydatki rządowe, wpływa na popyt finalny, produkt równowagi i zatrudnienie.
+> Ekspansja fiskalna, czyli zwiększenie wydatków rządowych i/lub obniżenie podatków, przesuwa krzywą IS w prawo,
+> zwiększając produkcję i dochód. Konsolidacja fiskalna, czyli zmniejszenie wydatków rządowych i/lub podwyższenie
+> podatków, przesuwa krzywą IS w lewo, zmniejszając produkcję i dochód.
+>
+> Polityka pieniężna wpływa na podaż pieniądza. Ekspansywna polityka pieniężna, zwiększając podaż pieniądza i obniżając
+> stopy procentowe, przesuwa krzywą LM w prawo, co zwiększa inwestycje i produkcję. Restrykcyjna polityka pieniężna,
+> zmniejszając podaż pieniądza i podwyższając stopy procentowe, przesuwa krzywą LM w lewo, co zmniejsza inwestycje i
+> produkcję.
+>
+> Interakcje polityk mogą się wzajemnie wzmacniać lub równoważyć: ekspansywna polityka fiskalna i pieniężna prowadzą do
+> dużego wzrostu produkcji, podczas gdy restrykcyjne polityki powodują spadek produkcji. Mieszane polityki mogą
+> zrównoważyć efekty.
+
 ## Krótko- i średniookresowe efekty ekspansji monetarnej w modelu AD-AS. Rola oczekiwań cenowych. Neutralność pieniądza
+
+<tldr>
+    <a href="AD-AS.md"/>
+</tldr>
+
+> Krzywa łącznej podaży (AS) pokazuje, jak wielkość produkcji wpływa na poziom cen, natomiast krzywa łącznego popytu (
+> AD) pokazuje, jak wzrost poziomu cen prowadzi do spadku popytu finalnego i produktu równowagi w modelu IS-LM.
+>
+> Ekspansja monetarna to wzrost podaży pieniądza. W krótkim okresie prowadzi to do wzrostu produkcji i cen przez
+> przesunięcie krzywej AD w prawo. W średnim okresie ekspansja monetarna również prowadzi do wzrostu produkcji i cen,
+> ale ostatecznie poziom cen wzrasta, a produkcja wraca do początkowego poziomu, co przesuwa krzywą AS w lewo.
+>
+> Neutralność pieniądza oznacza, że w średnim okresie wzrost podaży pieniądza nie może trwale pobudzić gospodarki.
 
 ## Bezrobocie – jego przyczyny, rodzaje i sposoby ograniczania. Wzrost gospodarczy a redukcja bezrobocia – prawo Okuna
 
