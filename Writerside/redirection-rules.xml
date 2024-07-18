@@ -6,8 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="4c7d0a17">
-        <description>Created after removal of "Empty MD Topic" from Obrona</description>
-        <accepts>Empty-MD-Topic.html</accepts>
-    </rule>
 </rules>
