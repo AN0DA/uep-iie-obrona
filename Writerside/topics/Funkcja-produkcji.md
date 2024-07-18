@@ -27,8 +27,6 @@ produkcji również zostanie pomnożona przez tę samą liczbę.
 Korzyści skali to zależność między wielkością produkcji a kosztami jednostkowymi produkcji. Wyróżniamy trzy rodzaje
 korzyści skali produkcji:
 
-- **Stałe korzyści skali** – Koszty jednostkowe maleją wraz ze wzrostem produkcji, ale w mniejszym stopniu niż wzrost
-  produkcji.
-- **Malejące korzyści skali** – Koszty jednostkowe maleją wraz ze wzrostem produkcji, a tempo spadku kosztów jest
-  większe niż wzrost produkcji.
+- **Stałe korzyści skali** – Koszty jednostkowe nie zmieniają się wraz ze wzrostem produkcji.
+- **Malejące korzyści skali** – Koszty jednostkowe maleją wraz ze wzrostem produkcji.
 - **Rosnące korzyści skali** – Koszty jednostkowe rosną wraz ze wzrostem produkcji.

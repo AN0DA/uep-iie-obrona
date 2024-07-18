@@ -1,6 +1,6 @@
 # Polityka fiskalna i pieniężna w gospodarce otwartej w systemie płynnego i stałego kursu walutowego.
 
-Model IS-LM w gospodarce otwartej opisuje związku między produkcją, stopą procento∑a i kursem walutowym w kontekście
+Model IS-LM w gospodarce otwartej opisuje związku między produkcją, stopą procentową i kursem walutowym w kontekście
 równowagi.
 
 ## System płynnego kursu walutowego
