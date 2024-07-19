@@ -428,6 +428,7 @@
 >
 >W systemie płynnego kursu walutowego polityka pieniężna jest bardziej elastyczna, ale polityka fiskalna może powodować
 > znaczne zmiany kursu walutowego. W systemie stałego kursu walutowego polityka fiskalna jest bardziej efektywna w
-> stabilizacji gospodarki, ale polityka pieniężna jest ograniczona przez konieczność utrzymania stałego kursu walutowego.
+> stabilizacji gospodarki, ale polityka pieniężna jest ograniczona przez konieczność utrzymania stałego kursu
+> walutowego.
 > Koordynacja polityk fiskalnej i pieniężnej jest kluczowa dla osiągnięcia pożądanych celów gospodarczych i stabilności
 > makroekonomicznej.

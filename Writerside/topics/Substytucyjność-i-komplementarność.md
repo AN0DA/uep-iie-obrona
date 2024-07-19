@@ -2,7 +2,8 @@
 
 ## Substytucyjność
 
-Substytucyjność to zdolność czynników produkcji do zastępowania się nawzajem w procesie produkcji. Czynniki są substytucyjne, gdy wzrost ilości jednego z nich powoduje spadek ilości drugiego.
+Substytucyjność to zdolność czynników produkcji do zastępowania się nawzajem w procesie produkcji. Czynniki są
+substytucyjne, gdy wzrost ilości jednego z nich powoduje spadek ilości drugiego.
 
 Przykładem jest funkcja Cobba-Douglasa, która przedstawia zależność produkcji od zasobów pracy i kapitału.
 
@@ -15,6 +16,7 @@ Q = A \cdot L^{\alpha} \cdot K^{\beta}
 ```
 
 gdzie:
+
 - $Q$ – wielkość produkcji,
 - $A$ – współczynnik technologiczny,
 - $L$ – nakład pracy,
@@ -23,7 +25,9 @@ gdzie:
 
 ## Komplementarność
 
-Komplementarność to zdolność czynników produkcji do uzupełniania się nawzajem w procesie produkcji. Czynniki są komplementarne, gdy wzrost ilości jednego z nich zwiększa produktywność drugiego. Przykładem może być maszyna, która nie może działać bez prądu.
+Komplementarność to zdolność czynników produkcji do uzupełniania się nawzajem w procesie produkcji. Czynniki są
+komplementarne, gdy wzrost ilości jednego z nich zwiększa produktywność drugiego. Przykładem może być maszyna, która nie
+może działać bez prądu.
 
 Przykładem jest funkcja produkcji Koopmansa-Leontiefa.
 
@@ -36,9 +40,11 @@ Q = \min \left( \frac{L}{a}, \frac{K}{b} \right)
 ```
 
 gdzie:
+
 - $Q$ – wielkość produkcji,
 - $L$ – nakład pracy,
 - $K$ – nakład kapitału,
 - $a$ i $b$ – współczynniki określające proporcje, w jakich czynniki produkcji muszą być używane.
 
-W tej funkcji produkcja jest ograniczona przez czynnik, którego brakuje najbardziej, co odzwierciedla pełną komplementarność czynników produkcji.
+W tej funkcji produkcja jest ograniczona przez czynnik, którego brakuje najbardziej, co odzwierciedla pełną
+komplementarność czynników produkcji.

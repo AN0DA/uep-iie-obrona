@@ -24,7 +24,7 @@ Aby obliczyć NPV, należy:
 
 gdzie:
 
-- $CF_t$ - przepływy pieniężne w okresie  $t$
+- $CF_t$ - przepływy pieniężne w okresie $t$
 - $r$ - stopa dyskontowa
 - $t$ - numer okresu
 - $n$ - łączna liczba okresów

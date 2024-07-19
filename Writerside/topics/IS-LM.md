@@ -1,6 +1,7 @@
 # Mechanizmy transmisji polityki fiskalnej i pieniężnej w modelu IS-LM
 
-Polityka fiskalna polega na zmianie wysokości podatków i/lub wydatków rządowych w celu wpływania na popyt finalny, produkt równowagi i zatrudnienie.
+Polityka fiskalna polega na zmianie wysokości podatków i/lub wydatków rządowych w celu wpływania na popyt finalny,
+produkt równowagi i zatrudnienie.
 
 - **Ekspansja fiskalna** – zwiększenie wydatków rządowych i/lub obniżenie podatków (rośnie deficyt budżetowy).
 - **Konsolidacja fiskalna** – zmniejszenie wydatków rządowych i/lub podwyższenie podatków (spada deficyt budżetowy).

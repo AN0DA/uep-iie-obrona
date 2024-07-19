@@ -9,7 +9,8 @@
 
 ## Oligopol
 
-- Na rynku działa od dwóch do kilkunastu producentów, którzy całkowicie dominują rynek produktu i mają wpływ na jego cenę.
+- Na rynku działa od dwóch do kilkunastu producentów, którzy całkowicie dominują rynek produktu i mają wpływ na jego
+  cenę.
 - Producenci nie zawsze ze sobą agresywnie konkurują, a ich działania są wzajemnie uzależnione.
 - Istnieje możliwość współpracy między firmami w celu ustalania cen lub produkcji.
 
@@ -22,7 +23,8 @@
 
 ## Monopol
 
-- Na rynku działa tylko jedno przedsiębiorstwo, które ma pełną kontrolę nad ceną produktu (cenodawca) i ilością produkcji.
+- Na rynku działa tylko jedno przedsiębiorstwo, które ma pełną kontrolę nad ceną produktu (cenodawca) i ilością
+  produkcji.
 - Monopol może działać w interesie konsumentów lub w swoim własnym interesie, maksymalizując zyski.
 - Występują duże bariery wejścia, które uniemożliwiają powstanie konkurencji.
 - Monopolista może ustalać ceny znacznie powyżej kosztów produkcji, co prowadzi do nadmiernych zysków.

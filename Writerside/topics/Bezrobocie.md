@@ -3,7 +3,8 @@
 ## Rodzaje bezrobocia
 
 1. **Frykcyjne** – krótkotrwałe, związane z poszukiwaniem pracy lub zmianą miejsca zamieszkania.
-2. **Strukturalne** – długotrwałe, wynika z niedopasowania podaży pracy do zapotrzebowania (jednych specjalistów za mało, innych za dużo).
+2. **Strukturalne** – długotrwałe, wynika z niedopasowania podaży pracy do zapotrzebowania (jednych specjalistów za
+   mało, innych za dużo).
 
 ## Przyczyny bezrobocia
 
