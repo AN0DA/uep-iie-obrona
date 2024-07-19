@@ -81,4 +81,3 @@ wykorzystując przewagę na rynku.
 - Monopolista ma możliwość wpływania na cenę rynkową poprzez zmianę wielkości produkcji, co pozwala mu maksymalizować
   zysk.
 - W obu strukturach rynkowych przedsiębiorstwa minimalizują koszty, wybierając optymalną kombinację nakładów produkcji.
-- Monopolista może dodatkowo wykorzystywać swoją pozycję na rynku, aby uzyskać korzystniejsze warunki zakupu nakładów.
