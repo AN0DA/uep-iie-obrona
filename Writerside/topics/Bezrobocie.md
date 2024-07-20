@@ -27,4 +27,17 @@
 
 Empiryczna zależność między wzrostem gospodarczym a bezrobociem.
 
-Prawo Okuna polega na tym, że wraz ze wzrostem PKB o 3% bezrobocie spada o 1%, i na odwrót.
+### Zależność między stopą wzrostu produkcji a bezrobociem
+
+Prawo Okuna wskazuje, że istnieje odwrotna zależność między stopą wzrostu produkcji (PKB) a stopą bezrobocia. Kiedy
+gospodarka rośnie szybciej, bezrobocie ma tendencję do spadania, a kiedy gospodarka rośnie wolniej lub kurczy się,
+bezrobocie rośnie.
+
+Wraz ze wzrostem PKB o 3% bezrobocie spada o 1%, i na odwrót.
+
+### Stopa bezrobocia naturalnego
+
+Stopa bezrobocia naturalnego to poziom bezrobocia, który istnieje, gdy gospodarka jest w stanie równowagi. Oznacza to,
+że istnieje pewien poziom bezrobocia, który nie jest spowodowany cyklicznymi zmianami gospodarczymi, ale raczej przez
+czynniki strukturalne i frykcyjne w gospodarce. Prawo Okuna odnosi się do odchyleń od tego naturalnego poziomu
+bezrobocia w odpowiedzi na zmiany w stopie wzrostu produkcji.
