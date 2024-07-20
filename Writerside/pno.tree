@@ -48,6 +48,18 @@
         <toc-element topic="Analiza-wrażliwości-w-programowaniu-liniowym.md"/>
         <toc-element topic="Ogólna-postać-zadania-programowania-nieliniowego-Zadanie-dualne.md"/>
         <toc-element topic="Architektury-oprogramowania-systemów-informatycznych.md"/>
+        <toc-element topic="Tradycyjne-i-zwinne-metodyki-tworzenia-systemów-informatycznych.md"/>
+        <toc-element topic="Zarządzanie-procesami-biznesowymi.md"/>
+        <toc-element topic="Rodzaje-systemów-informatycznych-wspierających-przedsiębiorstwa.md"/>
+        <toc-element topic="Ochrona-i-bezpieczeństwo-w-systemach-operacyjnych.md"/>
+        <toc-element topic="Algorytm.md"/>
+        <toc-element topic="Charakterystyka-produktu-i-usługi-cyfrowej.md"/>
+        <toc-element topic="Modele-elektronicznego-biznesu.md"/>
+        <toc-element topic="Elektroniczny-podpis-i-cyfrowy-certyfikat.md"/>
+        <toc-element topic="Relacyjny-model-danych.md"/>
+        <toc-element topic="Model-związków-encji.md"/>
+        <toc-element topic="Komponenty-paradygmatu-programowania-obiektowego.md"/>
+        <toc-element topic="Założenia-paradygmatu-programowania-obiektowego.md"/>
     </toc-element>
     <toc-element topic="Dodatek.md">
         <toc-element topic="NPV.md"/>

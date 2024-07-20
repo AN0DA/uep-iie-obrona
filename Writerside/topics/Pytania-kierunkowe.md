@@ -81,71 +81,71 @@
 ## Tradycyjne i zwinne metodyki tworzenia systemów informatycznych: podobieństwa i różnice
 
 <tldr>
-<a href=""/>
+<a href="Tradycyjne-i-zwinne-metodyki-tworzenia-systemów-informatycznych.md"/>
 </tldr>
 
 ## Zarządzanie procesami biznesowymi
 
 <tldr>
-<a href=""/>
+<a href="Zarządzanie-procesami-biznesowymi.md"/>
 </tldr>
 
 ## Rodzaje systemów informatycznych wspierających przedsiębiorstwa
 
 <tldr>
-<a href=""/>
+<a href="Rodzaje-systemów-informatycznych-wspierających-przedsiębiorstwa.md"/>
 </tldr>
 
 ## Ochrona i bezpieczeństwo w systemach operacyjnych
 
 <tldr>
-<a href=""/>
+<a href="Ochrona-i-bezpieczeństwo-w-systemach-operacyjnych.md"/>
 </tldr>
 
 ## Algorytm – pojęcie, ocena efektywności algorytmu (złożoności obliczeniowej)
 
 <tldr>
-<a href=""/>
+<a href="Algorytm.md"/>
 </tldr>
 
 ## Charakterystyka produktu i usługi cyfrowej
 
 <tldr>
-<a href=""/>
+<a href="Charakterystyka-produktu-i-usługi-cyfrowej.md"/>
 </tldr>
 
 ## Modele elektronicznego biznesu
 
 <tldr>
-<a href=""/>
+<a href="Modele-elektronicznego-biznesu.md"/>
 </tldr>
 
 ## Elektroniczny podpis i cyfrowy certyfikat
 
 <tldr>
-<a href=""/>
+<a href="Elektroniczny-podpis-i-cyfrowy-certyfikat.md"/>
 </tldr>
 
 ## Relacyjny model danych
 
 <tldr>
-<a href=""/>
+<a href="Relacyjny-model-danych.md"/>
 </tldr>
 
 ## Model związków encji
 
 <tldr>
-<a href=""/>
+<a href="Model-związków-encji.md"/>
 </tldr>
 
 ## Komponenty paradygmatu programowania obiektowego – klasa, obiekt, interfejs
 
 <tldr>
-<a href=""/>
+<a href="Komponenty-paradygmatu-programowania-obiektowego.md"/>
 </tldr>
 
 ## Założenia paradygmatu programowania obiektowego – hermetyzacja, polimorfizm, dziedziczenie
 
 <tldr>
-<a href=""/>
+<a href="Założenia-paradygmatu-programowania-obiektowego.md"/>
 </tldr>
