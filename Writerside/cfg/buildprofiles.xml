@@ -9,6 +9,7 @@
             <algolia-id>GWAAN6T9UT</algolia-id>
             <algolia-index>PNO_INDEX</algolia-index>
             <algolia-api-key>ec2ff9bb2d4e85ca40a14e3685f485f7</algolia-api-key>
+            <algolia-show-logo>true</algolia-show-logo>
         </variables>
     </build-profile>
 
