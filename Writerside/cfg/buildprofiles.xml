@@ -6,9 +6,9 @@
     <build-profile instance="pno">
         <variables>
             <noindex-content>true</noindex-content>
-            <algolia-id>36MKJDQTVB</algolia-id>
+            <algolia-id>GWAAN6T9UT</algolia-id>
             <algolia-index>PNO_INDEX</algolia-index>
-            <algolia-api-key>314a5761d3d0160be756076492dba452</algolia-api-key>
+            <algolia-api-key>dfacb5b7d4428759e860e4a0b061ed78</algolia-api-key>
         </variables>
     </build-profile>
 
